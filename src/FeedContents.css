@@ -1,0 +1,13 @@
+.main-feed {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 60%;
+    align-items: center;
+    margin-left: 20%;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}

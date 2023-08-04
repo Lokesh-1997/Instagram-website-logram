@@ -1,0 +1,77 @@
+.middle-content {
+    height: 100vh;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.322);
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    position: relative;
+    right: 130px;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+.header p {
+    height: 20px;
+    width: 200px;
+    position: relative;
+    top: 5px;
+}
+
+.footer {
+    width: 500px;
+    display: flex;
+    gap: 20px;
+    position: relative;
+    right: 50px;
+}
+
+.footer h6 {
+    font-weight: 500;
+    color: black;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.pp {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.dp {
+    height: 500px;
+    width: 500px;
+}
+
+.heart-share {
+    display: flex;
+    gap: 20px;
+    position: relative;
+    right: 200px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.icon-pen {
+    width: 20px;
+    height: 20px;
+}
+
+.likes {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    position: relative;
+    right: 225px;
+    font-weight: 500;
+}

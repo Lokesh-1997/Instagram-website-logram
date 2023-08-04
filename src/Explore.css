@@ -1,0 +1,21 @@
+.explore-contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.explore-contents img {
+    height: 300px;
+    width: 300px;
+}
+
+.explore-images {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    gap: 10px;
+}
